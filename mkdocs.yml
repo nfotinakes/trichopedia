@@ -52,7 +52,7 @@ theme:
     - navigation.prefetch
     - navigation.path
     - navigation.footer
-    # - navigation.tabs
+    - navigation.tabs
 
 markdown_extensions:
   - md_in_html
@@ -60,4 +60,3 @@ markdown_extensions:
 
 plugins: 
   - glightbox
-
