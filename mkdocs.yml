@@ -1,0 +1,63 @@
+site_name: Trichopedia
+nav:
+  - Home: index.md
+  - About: 
+      - General Info: about/about.md
+      - Pachanoi: about/pachanoi.md
+      - Bridgesii: about/bridgesii.md
+      - Peruvianus: about/peru.md
+  - Identify: identify.md
+  - Grow Guides:
+    - Growing From Seed: grow-guides/seed.md
+    - Growing From A Cutting: grow-guides/cutting.md
+    - Soil: grow-guides/soil.md
+    - Watering: grow-guides/water.md
+    - Light: grow-guides/light.md
+  - Clones:
+    - Common Clones: clones/index.md
+    - Pachanoi Dominant: 
+      - Huarazensis: clones/pachanoi/huarazensis.md
+      - Ogun: clones/pachanoi/ogun.md
+    - Bridgesii Dominant:
+      - Psycho0: clones/bridgesii/psycho0.md
+    - Peruvianus Dominant:
+      - Sharxx Blue: clones/peruvianus/sharxxblue.md
+      
+    # - 'Bridgesii Dominant':
+    # - 'Peruvianus Dominant':
+
+theme: 
+  name: material
+
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: green
+
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: green
+    
+  icon:
+    logo: material/cactus
+
+  favicon: assets/favicon.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.prefetch
+    - navigation.path
+    - navigation.footer
+    # - navigation.tabs
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+
+plugins: 
+  - glightbox
+
