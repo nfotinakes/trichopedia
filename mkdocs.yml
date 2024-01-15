@@ -14,6 +14,7 @@ nav:
     - Watering: grow-guides/water.md
     - Light: grow-guides/light.md
   - Clones:
+    - 'Clone Info' : clones/index.md
     - 'BBG 48.1540': clones/bbg48_1540.md
     - clones/huarazensis.md
     - clones/ogunbodede.md
