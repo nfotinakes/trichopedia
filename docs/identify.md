@@ -6,6 +6,7 @@ This page will walk you through some of the common species mistaken for San Pedr
 ><h6>*Note: this guide has been adapted from [Reddit](https://www.reddit.com/r/sanpedrocactus/comments/pk2cvv/is_this_san_pedro_the_mega_sticky_for_san_pedro/){:target="_blank"} by user u/BoofingCacus</h6>
 
 ## Cereus Species
+---
 
 The infamous "Peruvian Apple Cactus." This is most commonly mistaken for San Pedro because it's size, profile, color, and flowers look very similar to Trichocereus.
 
@@ -13,11 +14,40 @@ There are several species of Cereus that look almost identical. They usually get
 
 The main features that distinguish a Cereus from a Trichocereus are the flat skinny ribs, hairless flower tubes, and the branching tree-like structure of mature plants.
 
-<p align=center>
+<!-- <p align=center>
   <img src="/assets/identify/cereus1.webp" width="300" />
   <img src="/assets/identify/cereus2.webp" width="300" /> 
   <img src="/assets/identify/cereus3.webp" width="300" />
-</p>
+</p> -->
+
+
+<div class="gallery">
+  <a target="_blank" href="/assets/identify/cereus1.webp">
+    <img src="/assets/identify/cereus1.webp" alt="Cereus" width="600" height="400">
+  </a>
+  <div class="desc">Cereus</div>
+</div>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="/assets/identify/cereus2.webp">
+    <img src="/assets/identify/cereus2.webp" alt="Cereus" width="600" height="400">
+  </a>
+  <div class="desc">Cereus</div>
+</div>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="/assets/identify/cereus3.webp">
+    <img src="/assets/identify/cereus3.webp" alt="Cereus" width="600" height="400">
+  </a>
+  <div class="desc">Cereus</div>
+</div>
+
+
+<div class="clearfix"></div>
 
 <!-- <figure markdown>
   ![Cereus Pic 1](assets/identify/cereus1.webp){ width="300" align=center }
@@ -34,6 +64,7 @@ The main features that distinguish a Cereus from a Trichocereus are the flat ski
 </figure> -->
 
 ## Myrtillocactus geometrizans
+---
 
 This cactus goes by many names including the blue candle, whortleberry, bilberry, blue myrtle...
 
