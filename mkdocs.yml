@@ -14,14 +14,10 @@ nav:
     - Watering: grow-guides/water.md
     - Light: grow-guides/light.md
   - Clones:
-    - Common Clones: clones/index.md
-    - Pachanoi Dominant: 
-      - Huarazensis: clones/pachanoi/huarazensis.md
-      - Ogun: clones/pachanoi/ogun.md
-    - Bridgesii Dominant:
-      - Psycho0: clones/bridgesii/psycho0.md
-    - Peruvianus Dominant:
-      - Sharxx Blue: clones/peruvianus/sharxxblue.md
+    - clones/pachanoi/huarazensis.md
+    - clones/pachanoi/ogunbodede.md
+    - clones/bridgesii/psycho0.md 
+    - clones/peruvianus/sharxxblue.md
       
     # - 'Bridgesii Dominant':
     # - 'Peruvianus Dominant':
@@ -47,12 +43,12 @@ theme:
 
   favicon: assets/favicon.png
   features:
-    - navigation.instant
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.progress
     - navigation.prefetch
     - navigation.path
-    - navigation.footer
-    - navigation.tabs
+    # - navigation.footer
+    # - navigation.tabs
 
 markdown_extensions:
   - md_in_html
@@ -60,3 +56,6 @@ markdown_extensions:
 
 plugins: 
   - glightbox
+
+extra_css:
+  - stylesheets/infobox.css
