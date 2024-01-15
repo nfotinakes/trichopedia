@@ -66,23 +66,23 @@ Ogun displays characteristics common to Pachanoi with short spines and green col
 
 
 <div class="gallery">
-  <a target="_blank" href="/clones/pachanoi/assets/ogun1.webp">
-    <img src="clones/pachanoi/assets/ogun1.webp" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="./docs/clones/pachanoi/assets/ogun1.webp">
+    <img src="./docs/clones/pachanoi/assets/ogun1.webp" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">The Cactus Jones</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/clones/pachanoi/assets/ogun2.webp">
-    <img src="clones/pachanoi/assets/ogun2.webp" alt="Forest" width="600" height="400">
+  <a target="_blank" href="./docs/clones/pachanoi/assets/ogun2.webp">
+    <img src="./docs/clones/pachanoi/assets/ogun2.webp" alt="Forest" width="600" height="400">
     <div class="desc">u/strange_happenings23</div>
   </a>
  
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/clones/pachanoi/assets/ogun3.webp">
-    <img src="clones/pachanoi/assets/ogun3.webp" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="./docs/clones/pachanoi/assets/ogun3.webp">
+    <img src="./docs/clones/pachanoi/assets/ogun3.webp" alt="Northern Lights" width="600" height="400">
     <div class="desc">u/strange_happenings23</div>
   </a>
 
