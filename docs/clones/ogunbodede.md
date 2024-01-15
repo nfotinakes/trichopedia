@@ -1,6 +1,6 @@
 <hr>
 
-Ogun or Ogunbodede is a classic Pachanoi clone.   
+Ogun or Ogunbodede is a pachanoi clone, with characteristics common to Matucana, Peru pachanois.   
 
 
 <div class="infobox">
@@ -60,10 +60,11 @@ As for looks, it has that smooth Matucana pach vibe. Short spines and a nice gre
 ## Characteristics 
 <hr>
 
-Ogun displays characteristics common to Pachanoi with short spines and green color.
+Ogun displays characteristics common to Pachanoi - short spines and green epidermis color.
 
 
-
+## Gallery
+<hr>  
 
 <div class="gallery">
   <a target="_blank" href="./ogun1.webp">
