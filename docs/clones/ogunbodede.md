@@ -16,15 +16,15 @@ Ogun or Ogunbodede is a classic Pachanoi clone.
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>
-    <td>C. Mills</td>
+    <td>Ogunbodede</td>
 </tr>
 <tr>
     <th class="parameter-title" >Location: </th>
-    <td>California</td>
+    <td>Matucana, Peru</td>
 </tr>
 <tr>
     <th class="parameter-title">Date: </th>
-    <td>circa 2005</td>
+    <td>N/A</td>
 </tr>
 </table>
 <div class="infobox-title">Aliases</div>
