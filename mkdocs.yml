@@ -60,4 +60,5 @@ plugins:
 extra_css:
   - stylesheets/infobox.css
 
-use_directory_urls: false
+# use_directory_urls: false
+# site_url: null
