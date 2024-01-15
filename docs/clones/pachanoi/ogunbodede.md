@@ -6,7 +6,7 @@ Ogun or Ogunbodede is a classic Pachanoi clone.
 <div class="infobox">
 <div class="infobox-title">Ogunbodede</div>
 <div class="infobox-image">
-<img src="clones/pachanoi/assets/ogun.jpeg" alt="ogun" width="200">
+<img src="./clones/assets/ogun.jpeg" alt="ogun" width="200">
 
 </div>
 <table class="infobox-table">
