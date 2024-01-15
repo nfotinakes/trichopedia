@@ -6,7 +6,7 @@ Ogun or Ogunbodede is a classic Pachanoi clone.
 <div class="infobox">
 <div class="infobox-title">Ogunbodede</div>
 <div class="infobox-image">
-<img src="/clones/pachanoi/assets/ogun.jpeg" alt="ogun" width="200">
+<img src="clones/pachanoi/assets/ogun.jpeg" alt="ogun" width="200">
 
 </div>
 <table class="infobox-table">
@@ -67,14 +67,14 @@ Ogun displays characteristics common to Pachanoi with short spines and green col
 
 <div class="gallery">
   <a target="_blank" href="/clones/pachanoi/assets/ogun1.webp">
-    <img src="/clones/pachanoi/assets/ogun1.webp" alt="Cinque Terre" width="600" height="400">
+    <img src="clones/pachanoi/assets/ogun1.webp" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">The Cactus Jones</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/clones/pachanoi/assets/ogun2.webp">
-    <img src="/clones/pachanoi/assets/ogun2.webp" alt="Forest" width="600" height="400">
+    <img src="clones/pachanoi/assets/ogun2.webp" alt="Forest" width="600" height="400">
     <div class="desc">u/strange_happenings23</div>
   </a>
  
@@ -82,7 +82,7 @@ Ogun displays characteristics common to Pachanoi with short spines and green col
 
 <div class="gallery">
   <a target="_blank" href="/clones/pachanoi/assets/ogun3.webp">
-    <img src="/clones/pachanoi/assets/ogun3.webp" alt="Northern Lights" width="600" height="400">
+    <img src="clones/pachanoi/assets/ogun3.webp" alt="Northern Lights" width="600" height="400">
     <div class="desc">u/strange_happenings23</div>
   </a>
 
