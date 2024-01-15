@@ -14,6 +14,7 @@ nav:
     - Watering: grow-guides/water.md
     - Light: grow-guides/light.md
   - Clones:
+    - 'BBG 48.1540': clones/bbg48_1540.md
     - clones/huarazensis.md
     - clones/ogunbodede.md
     - clones/psycho0.md 
@@ -49,6 +50,8 @@ theme:
     - navigation.path
     # - navigation.footer
     # - navigation.tabs
+    - search.suggest
+    # - search.highlight
 
 markdown_extensions:
   - md_in_html
@@ -56,6 +59,7 @@ markdown_extensions:
 
 plugins: 
   - glightbox
+  - search
 
 extra_css:
   - stylesheets/infobox.css

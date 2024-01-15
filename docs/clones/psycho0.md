@@ -26,7 +26,7 @@ Psycho0, pronounced Psycho-Naught, is a bridgesii clone.
     <th class="parameter-title" >Location: </th>
     <td>
         <ul class="alias-name">
-      <li><a href="https://cactuscountry.com.au/cactus-country/">Cactus Country</a></li>
+      <li><a href="https://cactuscountry.com.au/cactus-country/" target="_blank">Cactus Country</a></li>
       <li>Strathmerton, Victoria - Australia</li>
     </ul>
     </td>
