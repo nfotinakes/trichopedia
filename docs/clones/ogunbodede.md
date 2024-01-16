@@ -30,7 +30,6 @@ Ogun or Ogunbodede is a pachanoi clone, with characteristics common to Matucana,
 <div class="infobox-title">Aliases</div>
 <ul class="infobox-table">
     <li class="alias-name">Ogun</li>
-    <li class="alias-name">San Pedro</li>
 </ul>
 </div>
 

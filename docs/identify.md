@@ -1,9 +1,27 @@
 <hr>
 For those new to the hobby, identifying the species we lump under San Pedro can be difficult at first, but with some practice (and hours of staring at plants) you will be able to identify them with ease.  
 
-This page will walk you through some of the common species mistaken for San Pedro as well as tips to identifying correctly.
+This page will walk you through some tips to identify San Pedro as well as some of the common species mistaken for San Pedro.
 
-><h6>*Note: this guide has been adapted from [Reddit](https://www.reddit.com/r/sanpedrocactus/comments/pk2cvv/is_this_san_pedro_the_mega_sticky_for_san_pedro/){:target="_blank"} by user u/BoofingCacus</h6>
+## San Pedro
+---
+What we refer to as "San Pedro" usually consists of four different trichocereus species: 
+
+* [Trichocereus Pachanoi](about/pachanoi.md)
+* [Trichocereus Bridgesii](about/bridgesii.md)
+* [Trichocereus Peruvianus](about/peru.md)
+* Trichocereus Scopulicula
+
+While each of these species each have unique identifying characteristics, overall they share similar traits (For species specific traits, go to each species corresponding page for more info).  
+
+First, some basic terminology used when identifying catus can be helpful:
+
+* **Ribs**: are the protruding rows that run vertically from the crown to the base of the cactus. Spines and flowers grow on the edge of these ribs. Cactus ribs help keep the plant cool by creating shaded troughs/pockets between them, and increasing the surface area to dissipate heat. They also allow for contraction and expansion to store water.
+* **Areoles**: the small, round bumps that can be light tan to dark brown and grow centrally down the spine. Spines grow in clusters from the areoles and flowers bloom from them. Areoles are modified branches.
+* **Spines**: these are the shap needles that grow from the areoles. These are modified leaves evolved for protection.
+
+
+
 
 ## Cereus Species
 ---
@@ -14,14 +32,14 @@ There are several species of Cereus that look almost identical. They usually get
 
 The main features that distinguish a Cereus from a Trichocereus are the flat skinny ribs, hairless flower tubes, and the branching tree-like structure of mature plants.
 
-<!-- <p align=center>
+<p align=center>
   <img src="/assets/identify/cereus1.webp" width="300" />
   <img src="/assets/identify/cereus2.webp" width="300" /> 
   <img src="/assets/identify/cereus3.webp" width="300" />
-</p> -->
+</p>
 
 
-<div class="gallery">
+<!-- <div class="gallery">
   <a target="_blank" href="/assets/identify/cereus1.webp">
     <img src="/assets/identify/cereus1.webp" alt="Cereus" width="600" height="400">
   </a>
@@ -44,7 +62,7 @@ The main features that distinguish a Cereus from a Trichocereus are the flat ski
     <img src="/assets/identify/cereus3.webp" alt="Cereus" width="600" height="400">
   </a>
   <div class="desc">Cereus</div>
-</div>
+</div> -->
 
 
 <div class="clearfix"></div>
@@ -97,6 +115,7 @@ The best way to distinguish these plants from Trichocereus is to look at the spi
 </figure> -->
 
 ## Stetsonia coryne
+---
 
 This is the toothpick cactus. It looks very similar to Trichocereus species like T. peruvianus, T. knuthianus, etc. However, there are a few subtle ways to distinguish a Toothpick cactus from a Trichocereus.
 
@@ -120,6 +139,7 @@ The easiest way to distinguish a Toothpick cactus is of course, by the spines. S
 </figure> -->
 
 ## Pilosocereus species 
+---
 
 There are many species in the Pilosocereus genus, but just a few closely resemble San Pedros. Most Pilosocereus will be very blue, with needle-like spines that are yellow to grey. The most common, and most commonly mistaken for San Pedro is P. pachyclaudus. Other Pilos are much more uncommon, or have features like long hairs that make them easy to distinguish from a San Pedro. 
 
@@ -141,6 +161,7 @@ Young P. Pachyclaudus will usually have a vibrant blue skin with bright yellow s
 </figure> -->
 
 ## Lophocereus / Pachycereus species
+---
 
 Pachycereus got merged into the Lophocereus genus this year!? Wacky, but they still get confused with San Pedros so here are the common ones. 
 
@@ -187,11 +208,14 @@ L. Schottii is another common columnar. Especially in the Phoenix metro area, yo
 The non-monstrose form of L. schottii is actually less common. Adults look similar to an extra spiny Cereus or L. marginatus. Juveniles look more like the juvenile Polaskia and Stenocereus species.
 
 ## Stenocereus and Polaskia species
+---
 Polaskia chichipe can look very similar to San Pedros. The best way to discern a polaskia is by the ribs and spines. The ribs will be thinner and more acute than Trichocereus, but wider than Cereus. They usually have 6-8 evenly spaced radial spines, and one long central spine. Although the spination is similar to T. peruvianus, the central spine of a Polaskia will be more oval shaped instead of needle-like. Adult plants usually branch freely from higher up. Juvenile plants often have a grey, striped farina that disappears with age. This makes them hard to discern between Stenocereus and Lophocereus juveniles, but it is easy to tell it apart from a Trichocereus.  
 
 
 
 
 ## Browningia hertlingiana
+---
 
 
+><h6>*Most of this guide has been adapted from [Reddit](https://www.reddit.com/r/sanpedrocactus/comments/pk2cvv/is_this_san_pedro_the_mega_sticky_for_san_pedro/){:target="_blank"} by user u/BoofingCactus</h6>

@@ -48,7 +48,7 @@ To prepare your mix, simply mix one part of your soil to one part pumice/perlite
 
 #### Beneficial Microbes
 
-Instead of sterilizing or cooking soil, I prefer adding benefical microbes the soil/water used for germinating. Some I recommend include:
+Instead of sterilizing or cooking soil, I prefer adding benefical microbes to the soil/water used for germinating. Some I recommend include:
 
 * [Recharge](https://www.realgrowers.com/product/recharge/){:target="_blank"}
 * [Great White](https://plantrevolution.com/products/great-white){:target="_blank"}

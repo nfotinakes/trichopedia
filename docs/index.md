@@ -15,10 +15,10 @@
 * [About](about/about.md) - *Background info on all San Pedro species*
 * [Identification](identify.md) - *How to identify trichocereus species*
 * [Guides](grow-guides/seed.md) - *How to grow trichocereus plants*
-* [Clone List](clones/index.md) - *An encylopedia of popular cultivars and their origins*
+* [Clone List](clones/index.md) - *Encylopedia of popular cultivars and their origins*
 * [Links](links.md) - *Links to useful resources and websites*
 
 ### Additional Info
 ---
->*<h6>The information on this site is for educational purposes only and has been gathered from a variety of sources. If you see your picture/info has been used and you wish to add credit or be removed, please contact at:*  
+>*<h6>The information on this site is for educational purposes only and has been gathered from a variety of sources. If you see your picture or info has been used without credit or want it removed, please contact:*  
 >*trichopedia@gmail.com</h6>*
