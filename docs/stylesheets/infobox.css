@@ -31,6 +31,10 @@
     margin: 5px;
 }
 
+.infobox-credit {
+  font-size: .5em;
+}
+
 .infobox-table th {
 	width: 74px;
     font-size: .75em;

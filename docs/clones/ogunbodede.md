@@ -16,7 +16,7 @@ Ogun or Ogunbodede is a pachanoi clone, with characteristics common to Matucana,
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>
-    <td>Ogunbodede</td>
+    <td>Olabode, Ogunbodede</td>
 </tr>
 <tr>
     <th class="parameter-title" >Location: </th>
