@@ -16,7 +16,7 @@ Sharxx Blue is a peruvianus clone, possibly of Ikaros DNA.
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Peruvianus</td>
+    <td>T. peruvianus</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>

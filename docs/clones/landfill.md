@@ -1,5 +1,5 @@
 <hr>
-Landfill is a classic T. Pachanoi clone, showing a green dermis and short spines. 
+Landfill is a classic T. pachanoi clone, showing a green dermis and short spines. 
 
 <div class="infobox">
 <div class="infobox-title">Landfill</div>
@@ -14,7 +14,7 @@ Landfill is a classic T. Pachanoi clone, showing a green dermis and short spines
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Pachanoi</td>
+    <td>T. pachanoi</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>

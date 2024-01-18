@@ -1,9 +1,9 @@
 <hr>
 
-Trichocereus Peruvianus is another species of cactus that is referred to under the umbrella of "San Pedro." T. peruvianus is native to Peru and is sometimes referred to as "Peruvian Torch."
+Trichocereus peruvianus is another species of cactus that is referred to under the umbrella of "San Pedro." T. peruvianus is native to Peru and is sometimes referred to as "Peruvian Torch."
 
 <div class="infobox">
-<div class="infobox-title">Trichocereus Peruvianus</div>
+<div class="infobox-title">Trichocereus peruvianus</div>
 <div class="infobox-image">
 <img src="./peru.jpg" alt="peruvianus" width="200">
 
@@ -27,7 +27,7 @@ Trichocereus Peruvianus is another species of cactus that is referred to under t
 </tr>
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>Peruvianus</td>
+    <td>peruvianus</td>
 </tr>
 </table>
 <div class="infobox-title">Aliases</div>
@@ -44,4 +44,4 @@ T. peruvianus often show a frosted blue color (glaucus) and have between 6-9 rib
 
 ## Taxonomy
 ---
-T. Peruvianus has been renamed to Echinopsis peruviana. Within the hobby most still refer to it as T. peruvianus, and this site will use that classification.
+T. peruvianus has been renamed to Echinopsis peruviana. Within the hobby most still refer to it as T. peruvianus, and this site will use that classification.

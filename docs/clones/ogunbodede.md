@@ -4,15 +4,17 @@ Ogun or Ogunbodede is a pachanoi clone, with characteristics common to Matucana,
 
 
 <div class="infobox">
+
 <div class="infobox-title">Ogunbodede</div>
+
 <div class="infobox-image">
 <img src="./ogun.jpeg" alt="ogun" width="200">
-
 </div>
+
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Pachanoi</td>
+    <td>T. pachanoi</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>
@@ -27,10 +29,12 @@ Ogun or Ogunbodede is a pachanoi clone, with characteristics common to Matucana,
     <td>N/A</td>
 </tr>
 </table>
+
 <div class="infobox-title">Aliases</div>
 <ul class="infobox-table">
     <li class="alias-name">Ogun</li>
 </ul>
+
 </div>
 
 
@@ -59,7 +63,7 @@ As for looks, it has that smooth Matucana pach vibe. Short spines and a nice gre
 ## Characteristics 
 <hr>
 
-Ogun displays characteristics common to Pachanoi - short spines and green epidermis color.
+Ogun displays characteristics common to pachanoi - short spines and green epidermis color.
 
 
 ## Photo Gallery

@@ -11,7 +11,7 @@ Psycho0, pronounced Psycho-Naught, is a bridgesii clone.
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Bridgesii</td>
+    <td>T. bridgesii</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>

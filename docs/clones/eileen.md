@@ -1,5 +1,5 @@
 <hr>
-Eileen is a T. Bridgesii dominant clone, showing green dermis and long spines. Eileen is known to show monstrose growth habits. 
+Eileen is a T. bridgesii dominant clone, showing green dermis and long spines. Eileen is known to show monstrose growth habits. 
 
 <div class="infobox">
 <div class="infobox-title">Eileen</div>
@@ -14,7 +14,7 @@ Eileen is a T. Bridgesii dominant clone, showing green dermis and long spines. E
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Bridgesii</td>
+    <td>T. bridgesii</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>
@@ -43,7 +43,7 @@ Eileen is a T. Bridgesii dominant clone, showing green dermis and long spines. E
 
 
 <blockquote>
-An Australian Bridgesii Clone. Fairly rot resistant. It was grown and distributed by the late Ed Stroud from SAB. The mother plant was growing in his mothers yard and her name was Eileen. There is some theories that it may be a hybrid, the mother plant was exceptionally thick for a bridge. Whether that was environmental or reflects that it might be hybridised is down to speculation <br><br>    
+An Australian bridgesii Clone. Fairly rot resistant. It was grown and distributed by the late Ed Stroud from SAB. The mother plant was growing in his mothers yard and her name was Eileen. There is some theories that it may be a hybrid, the mother plant was exceptionally thick for a bridge. Whether that was environmental or reflects that it might be hybridised is down to speculation <br><br>    
 -<em>B. Allinger</em>
 </blockquote>
 

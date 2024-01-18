@@ -10,7 +10,7 @@ What we refer to as "San Pedro" usually consists of four different trichocereus 
 * [Trichocereus Pachanoi](about/pachanoi.md)
 * [Trichocereus Bridgesii](about/bridgesii.md)
 * [Trichocereus Peruvianus](about/peru.md)
-* Trichocereus Scopulicula
+* [Trichocereus Scopulicula](about/scop.md)
 
 While each of these species each have unique identifying characteristics, overall they share similar traits (For species specific traits, go to each species corresponding page for more info).  
 

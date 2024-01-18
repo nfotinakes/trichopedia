@@ -11,7 +11,7 @@ Huarazensis is a pachanoi clone from Peru. Huarazensis is sometimes referenced a
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Pachanoi</td>
+    <td>T. pachanoi</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>

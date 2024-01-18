@@ -1,5 +1,5 @@
 <hr>
-Althea is a Peruvianus clone with blue glaucous and girthy appearance.
+Althea is a peruvianus clone with blue glaucous and girthy appearance.
 
 <div class="infobox">
 <div class="infobox-title">Althea</div>
@@ -14,7 +14,7 @@ Althea is a Peruvianus clone with blue glaucous and girthy appearance.
 <table class="infobox-table">
 <tr>
     <th class="parameter-title">Species: </th>
-    <td>T. Peruvianus</td>
+    <td>T. peruvianus</td>
 </tr>
 <tr>
     <th class="parameter-title">Source: </th>
