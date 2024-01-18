@@ -61,6 +61,12 @@ Other teks or growers will use a multitude of other additives, but these are the
 
 You need some sort of pot or container to plant your seeds in. Per the "takeaway tek" you can use takeout containers with a clear lid but anything that can be sealed while allowing light to pass will work.  Here are some examples of containers you could use:
 
+<p align=center>
+  <img src="takeaway1.jpg" width="300" />
+  <img src="bag.jpg" width="300" /> 
+  <img src="humid.jpg" width="300" /> 
+</p>
+
 You can also just use small pots and seal them within ziploc baggies, seed starting kits with the humidity domes, etc. The principle is all the same here, you just want to create and keep a humid enviroment while your seeds germinate.
 
 ### Water
@@ -85,4 +91,45 @@ Something useful in all aspects of growing is PAR or Photosynthic Active Radiati
 A simple timer to turn lights and heatmat is helpful if you decide to use these to aid germination
 
 ## Putting it all together
+---
+With all your supplies ready you can finally grow your seeds!
+
+First, wet and add your soil mixture to your container. You want your soil to be wet, but not dripping. A good rule to follow is hydrating your soil to field capacity. This means your soil is fully saturated and to test this slowly add water to your soil, take a handful and squeeze as hard as you can. When just a small amount or drop comes out it is at field capacity. If no water comes out, add more and if it drips out or streams, add more soil.
+
+Next, you set your seeds on top of the soil *DO NOT BURY*. Sprinkle a small amount or place them evenly across the top of your soil.
+
+Close the lid or bag and place under your lights/on your heatmat under the settings listed above. Set your timer and wait! 
+
+Within a few days your seeds should start germinating, but it can take up to 2-3 weeks.  
+
+Keep the lids on and the humid high for the first few weeks. After the seeds get some growth and their first set of spines, some people will begin to acclimate their seeds. This means either poking holes in the bag or cracking the lid for a little bit of time. 
+
+Do this slowly over a few weeks, adding more holes, or living the lid off longer. 
+
+Once acclimated to air, keep an eye on your soil and don't let it get too dry at first. Water the soil when it starts to dry and congratulations!
+
+<p align=center>
+ <figure>
+  <img src="sprout1.jpg" width="300" />
+  <figcaption>Freshly germinated seeds</figcaption>
+</figure> 
+
+ <figure>
+  <img src="sprout2.jpg" width="300" />
+  <figcaption>Seeds after a few weeks/months</figcaption>
+</figure> 
+   
+
+</p>
+
+><h6>*Source: <a href="https://herbalistics.au" target="_blank">Herbalistics</a></h6>
+
+
+## Links & Resources
+---
+Here are some additional sources & videos on seed starting:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KAC_Vh8-pAg?si=Yc8Omqb0iQiqAs18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/It9mimUYF88?si=X--uKp36TyOrTBBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
