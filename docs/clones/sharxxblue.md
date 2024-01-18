@@ -42,7 +42,7 @@ Sharxx Blue is a peruvianus clone, possibly of Ikaros DNA.
 ## Origin
 <hr>
 
-The following are excerpts on Sharxx Blue's origins (many from the forum Shaman Australia Botanicals or SAB):
+The following are excerpts on Sharxx Blue's origins (many from the forum [Shaman Australia Botanicals](https://www.shaman-australis.com/forum/){target="_blank"} or SAB forums):
 
 <blockquote>
 Sharxx Blue is an Australian clone originating from the Dawson's Cactus Collection. It was distributed and named by SAB forum member PD after another SAB member Sharxx. It is a fat growing, short spined T. peruvianus that is always extremely blue and glaucous.
@@ -66,7 +66,7 @@ There are a couple of other stunning blues that originate from that same garden 
 Sharxx Blue shows peruvianus traits, some similar to other Matucana Perus. It is known to be fat, short spined and blue glaucous. 
 
 
-## Gallery
+## Photo Gallery
 <hr>  
 
 <div class="gallery-container">

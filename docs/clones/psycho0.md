@@ -70,7 +70,7 @@ It's one of the best plants to breed with, it's offspring in both maternal and p
 
 Psycho0 is reported to be a fast grower and make good rootstock, not throwing many pups. 
 
-## Gallery
+## Photo Gallery
 <hr>  
 
 <div class="gallery-container">

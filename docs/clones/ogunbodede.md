@@ -38,7 +38,7 @@ Ogun or Ogunbodede is a pachanoi clone, with characteristics common to Matucana,
 ## Origin
 <hr>
 
-The following are excerpts sourced from T. Origins and History and reddit about the origins of Ogun:
+Excerpts on Ogun's origins:
 
 <blockquote>
 OGUN(bodede) is a Peru clone which remained in a postal parcel for one year before being transplanted and then tested and gave a high concentration of alkaloids (4.5 - 5%). it quickly became the most desired clone for many for this. My opinion is that 5g dry for 250 mg alkaloids is also what some bridgesii give (TBM clone A and B for example, SS02, Kate'bridge....) treated the same way! they are thus used as a powerful insecticide against aphids and are thus a guarantee of resistance to natural elements, what is called here "athleticism". this clone would come from the region of northern peru which has a long shamanic tradition and has been domesticated for one knows how many years, perhaps thousands, reproducing by cuttings and by exchanges between Andean curanderos.<br><br>    
@@ -62,7 +62,7 @@ As for looks, it has that smooth Matucana pach vibe. Short spines and a nice gre
 Ogun displays characteristics common to Pachanoi - short spines and green epidermis color.
 
 
-## Gallery
+## Photo Gallery
 <hr>  
 
 <div class="gallery-container">

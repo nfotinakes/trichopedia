@@ -49,7 +49,7 @@ There is also a wild collection of Trichocereus seeds from Huaraz that was colle
 
 Huaranzensis is a short spined pachanoi clone.
 
-## Gallery
+## Photo Gallery
 ---
 
 <div class="gallery-container">
