@@ -1,6 +1,6 @@
 <hr>
 
-Huarazensis is a pachanoi clone from Peru. 
+Huarazensis is a pachanoi clone from Peru. Huarazensis is sometimes referenced as a locality type, but an actual clone does exist, which can make it confusing. 
 
 <div class="infobox">
 <div class="infobox-title">Huarazensis</div>
@@ -49,7 +49,25 @@ There is also a wild collection of Trichocereus seeds from Huaraz that was colle
 
 Huaranzensis is a short spined pachanoi clone.
 
-<figure markdown>
-  ![Huaranzensis](assets/huaranzensis.jpeg){ width="300" }
-  <figcaption>Huaranzensis Clone (Picture from Trichocereus.net)</figcaption>
-</figure>
+## Gallery
+---
+
+<div class="gallery-container">
+<div class="gallery">
+  <a target="_blank" href="./huar1.jpg">
+    <img src="./huar1.jpg" alt="huarazensis" width="600" height="400">
+  </a>
+  <div class="desc">Trichocereus.net</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="./huar2.jpg">
+    <img src="./huar2.jpg" alt="huarazensis" width="600" height="400">
+  </a>
+  <div class="desc">Trichocereus.net</div>
+</div>
+
+
+
+</div>
+

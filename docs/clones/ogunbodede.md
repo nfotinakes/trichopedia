@@ -65,6 +65,7 @@ Ogun displays characteristics common to Pachanoi - short spines and green epider
 ## Gallery
 <hr>  
 
+<div class="gallery-container">
 <div class="gallery">
   <a target="_blank" href="./ogun1.webp">
     <img src="./ogun1.webp" alt="Cinque Terre" width="600" height="400">
@@ -86,6 +87,7 @@ Ogun displays characteristics common to Pachanoi - short spines and green epider
     <div class="desc">u/strange_happenings23</div>
   </a>
 
+</div>
 </div>
 
 

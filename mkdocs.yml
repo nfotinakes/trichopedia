@@ -16,12 +16,12 @@ nav:
     - Light: grow-guides/light.md
     - Pests & Disease : grow-guides/pests.md
   - Clones:
-    - 'Clone Info' : clones/index.md
-    - 'BBG 48.1540': clones/bbg48_1540.md
-    - clones/huarazensis.md
-    - clones/ogunbodede.md
-    - clones/psycho0.md 
-    - clones/sharxxblue.md
+    - Clone Info : clones/index.md
+    - BBG 48.1540: clones/bbg48_1540.md
+    - Huarazensis: clones/huarazensis.md
+    - Ogunbodede: clones/ogunbodede.md
+    - Psycho0: clones/psycho0.md 
+    - Sharxx Blue: clones/sharxxblue.md
       
     # - 'Bridgesii Dominant':
     # - 'Peruvianus Dominant':

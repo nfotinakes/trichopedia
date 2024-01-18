@@ -73,6 +73,7 @@ Psycho0 is reported to be a fast grower and make good rootstock, not throwing ma
 ## Gallery
 <hr>  
 
+<div class="gallery-container">
 <div class="gallery">
   <a target="_blank" href="./psycho01.jpeg">
     <img src="./psycho01.jpeg" alt="psycho0" width="600" height="400">
@@ -92,4 +93,5 @@ Psycho0 is reported to be a fast grower and make good rootstock, not throwing ma
     <img src="./psycho03.jpeg" alt="psych03" width="600" height="400">
   </a>
   <div class="desc">G. Nicholson</div>
+</div>
 </div>
