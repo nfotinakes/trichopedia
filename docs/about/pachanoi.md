@@ -46,3 +46,23 @@ There is debate around the taxonomy of Trichocereus pachanoi. On wikipedia, it i
 ---
 Identifying T. pachanoi:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TsBpWUQlESE?si=TX19GQVK3ANbMHLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Photo Gallery
+---
+<div class="gallery-container">
+<div class="gallery">
+  <a target="_blank" href="./pach1.jpg">
+    <img src="./pach1.jpg" alt="pach" width="600" height="400">
+  </a>
+  <div class="desc">Trichocereus.net</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="./pach2.jpg">
+    <img src="./pach2.jpg" alt="pach" width="600" height="400">
+  </a>
+  <div class="desc">Trichocereus.net</div>
+</div>
+</div>
+
+><h6>*Sources: [Trichocereus.net](https://trichocereus.net/trichocereus-scopulicola-echinopsis-scopulicola/){:target="_blank"}</h6>
