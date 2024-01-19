@@ -1,6 +1,6 @@
 <hr>
 
-[Trichocereus pachanoi](https://en.wikipedia.org/wiki/Trichocereus_macrogonus_var._pachanoi) is the primary species of cactus that is referred to under the umbrella of "san pedro." T. pachanoi is native to the Andes at an elevation of (6,600-9,800ft) altitude within Ecuador, Peru, and Colombia. Plants have been used ritually and traditionally since pre-Columbian times for their medicinal value. It is legal to grow in the US as an ornamental species.
+[Trichocereus pachanoi](https://en.wikipedia.org/wiki/Trichocereus_macrogonus_var._pachanoi) is the primary species of cactus under the umbrella "San Pedro." T. pachanoi is native to the Andes at an elevation of (6,600-9,800ft) altitude within Ecuador, Peru, and Colombia. Plants have been used ritually and traditionally since pre-Columbian times for their medicinal value. It is legal to grow in the US as an ornamental species.
 
 <div class="infobox">
 <div class="infobox-title">Trichocereus pachanoi</div>
@@ -40,4 +40,9 @@ T. pachanoi usually has 6 to 8 rounded ribs but is known to have down to 4 or up
 
 ## Taxonomy
 ---
-There is much debate around the taxonomy of Trichocereus pachanoi. Officially, it is classified as a variety under the species "macrogonus" as Trichocereus macrogonus var pachanoi. It is also rumored to be changed to the genus "Echinopsis" as well. In the hobby, you will usually see it still referred to as Trichocereus, and this site will use that classification.
+There is debate around the taxonomy of Trichocereus pachanoi. On wikipedia, it is classified as Trichocereus macrogonus var pachanoi. Sometimes it is cited as being the genus "Echinopsis" as well. In the hobby, you will usually see it still referred to as T. pachanoi, and this site will use that classification.
+
+## Resources
+---
+Identifying T. pachanoi:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TsBpWUQlESE?si=TX19GQVK3ANbMHLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

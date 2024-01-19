@@ -1,5 +1,5 @@
 <hr>
-Growing trichocereus from seed is rewarding and fun. As all species of trichocereus are self-sterile, the only way for a trichocereus flower to fruit and produce seeds, is to cross-polinate with another genetically diverse plant. This means two flowers from the same plant or even same clone cutting will not make seed.
+Growing trichocereus from seed is rewarding and fun. As all species of san pedro are self-sterile, the only way for a flower to fruit and produce seeds, is to cross-polinate with another genetically diverse plant. This means two flowers from the same plant or even same clone cutting will not make seed.
 
 There are many different "teks" or guides to growing trichocereus from seed, one of the most popular being the "takeaway tek", but they all follow the same basic principles:
 
@@ -42,9 +42,9 @@ Then get yourself either a bag of [Pumice](https://cactusjungle.com/product/uni-
 To prepare your mix, simply mix one part of your soil to one part pumice/perlite to make a 50/50 blend. You can also sift the soil and pumice to remove larger chunks of wood or pumice/perlite for a finer soil which may help/ 
 
     * Note: some growers will tell you to sterlize your soil medium to kill any nasty microbes
-    that may be in the soil. Many will say to microwave your mix, but I find this unnecessary 
-    and it is important to note that microwaving is not true sterilization. Adding beneficial 
-    microbes is the better route, more info on this will be below.
+    that may be in the soil. Many will say to microwave your mix, but it is important to note  
+    that microwaving is not true sterilization. Adding beneficial microbes is another route,  
+    more info on this will be below.
 
 #### Beneficial Microbes
 
@@ -118,18 +118,22 @@ Once acclimated to air, keep an eye on your soil and don't let it get too dry at
   <img src="sprout2.jpg" width="300" />
   <figcaption>Seeds after a few weeks/months</figcaption>
 </figure> 
-   
-
 </p>
-
-><h6>*Source: <a href="https://herbalistics.au" target="_blank">Herbalistics</a></h6>
 
 
 ## Links & Resources
 ---
 Here are some additional sources & videos on seed starting:
+
+ - [Trichocereus Seed Starting Facebook Group](https://www.facebook.com/groups/472111217049468){target="_blank"}
+
+- [Herbalist Takeaway Tek](https://herbalistics.com.au/takeaway-tek-how-to-germinate-cacti-seeds/){target="_blank"}
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KAC_Vh8-pAg?si=Yc8Omqb0iQiqAs18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/It9mimUYF88?si=X--uKp36TyOrTBBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+><h6>*Sources: <a href="https://herbalistics.au" target="_blank">Herbalistics</a></h6>
 
 

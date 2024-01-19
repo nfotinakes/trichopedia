@@ -7,10 +7,10 @@ This page will walk you through some tips to identify San Pedro as well as some 
 ---
 What we refer to as "San Pedro" usually consists of four different trichocereus species: 
 
-* [Trichocereus Pachanoi](about/pachanoi.md)
-* [Trichocereus Bridgesii](about/bridgesii.md)
-* [Trichocereus Peruvianus](about/peru.md)
-* [Trichocereus Scopulicula](about/scop.md)
+* [Trichocereus pachanoi](about/pachanoi.md)
+* [Trichocereus bridgesii](about/bridgesii.md)
+* [Trichocereus peruvianus](about/peru.md)
+* [Trichocereus scopulicula](about/scop.md)
 
 While each of these species each have unique identifying characteristics, overall they share similar traits (For species specific traits, go to each species corresponding page for more info).  
 
@@ -211,11 +211,21 @@ The non-monstrose form of L. schottii is actually less common. Adults look simil
 ---
 Polaskia chichipe can look very similar to San Pedros. The best way to discern a polaskia is by the ribs and spines. The ribs will be thinner and more acute than Trichocereus, but wider than Cereus. They usually have 6-8 evenly spaced radial spines, and one long central spine. Although the spination is similar to T. peruvianus, the central spine of a Polaskia will be more oval shaped instead of needle-like. Adult plants usually branch freely from higher up. Juvenile plants often have a grey, striped farina that disappears with age. This makes them hard to discern between Stenocereus and Lophocereus juveniles, but it is easy to tell it apart from a Trichocereus.  
 
+<p align=center>
+  <img src="/assets/identify/polaski1.webp" width="300" />
+  <img src="/assets/identify/polaski2.webp" width="300" /> 
+  <img src="/assets/identify/polaski3.webp" width="300" /> 
+</p>
 
 
 
 ## Browningia hertlingiana
 ---
+Brownies are beautiful blue plants that can look similar to Trichocereus peruvianus or cuzcoensis. The ribs are the defining traits to look at here. The ribs of a Browningia are wavy instead of straight. Mature plants will often have more than 8 ribs, which would be uncommon for most Trichocereus species. 
 
+<p align=center>
+  <img src="/assets/identify/brown1.webp" width="300" />
+  <img src="/assets/identify/brown2.webp" width="300" /> 
+</p>
 
 ><h6>*Most of this guide has been adapted from [Reddit](https://www.reddit.com/r/sanpedrocactus/comments/pk2cvv/is_this_san_pedro_the_mega_sticky_for_san_pedro/){:target="_blank"} by user u/BoofingCactus</h6>

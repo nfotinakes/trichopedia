@@ -57,4 +57,28 @@ In addition, Ritter wrote that Trichocereus riomizquensis is related to it, but 
 ---
 T. Scopulicola has been classified to Echinopsis scopulicola. This site will continue to use Trichocereus scopulicola.
 
-><h6>*Source: [Trichocereus.net](https://trichocereus.net/trichocereus-scopulicola-echinopsis-scopulicola/){:target="_blank"}</h6>
+## Resources
+---
+Identifying scopulicola:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yEqHxin0ogo?si=5MscKJ9ibfP6xoOZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Photo Gallery
+---
+<div class="gallery-container">
+<div class="gallery">
+  <a target="_blank" href="./scop1.jpg">
+    <img src="./scop1.jpg" alt="scop" width="600" height="400">
+  </a>
+  <div class="desc">Trichocereus.net</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="./scop2.jpg">
+    <img src="./scop2.jpg" alt="scop" width="600" height="400">
+  </a>
+  <div class="desc">Trichocereus.net</div>
+</div>
+</div>
+
+
+><h6>*Sources: [Trichocereus.net](https://trichocereus.net/trichocereus-scopulicola-echinopsis-scopulicola/){:target="_blank"}</h6>
