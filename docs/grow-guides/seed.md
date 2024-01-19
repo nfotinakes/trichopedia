@@ -24,7 +24,8 @@ Here are some seed sources to get you started:
 
 * [Misplant](https://www.misplant.net){:target="_blank"} - A legendary trichocereus breeder with great genetics. Only accepts mail-order forms and cash/check. Make sure to follow all instructions as listed on site.
 * [Reddit](https://www.reddit.com/r/sanpedrocactusforsale){:target="_blank"} - A subreddit that sources many clones and seeds as well. Be sure to check flair for trusted vendors.
-* [Facebook](https://www.facebook.com/groups/TheTrichocereusCommunity/){:target="_blank"} - This one of many trichocereus related Facebook groups that discusses ornamental growing of trichocereus. Full of great information. Seeds can often be found.
+* [Pacific Cactus](https://www.pacificcactus.com/){:target="_blank"} - Another online seed vendor
+<!-- * [Facebook](https://www.facebook.com/groups/TheTrichocereusCommunity/){:target="_blank"} - This one of many trichocereus related Facebook groups that discusses ornamental growing of trichocereus. Full of great information. Seeds can often be found. -->
 
 ### Soil
 
