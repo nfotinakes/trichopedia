@@ -6,5 +6,5 @@ The corresponding clone pages contain information on many of the common clones/c
 
 For more information how to root and grow your clone cuttings go to: [Cuttings](../grow-guides/cutting.md)
 
->*If you have a clone you want added to the site, please email trichopedia@gmail.com with the clone name, origin info, and any pictures
+>*If you have a clone you want added to the site, please email xerothorn@gmail.com with the clone name, origin info, and any pictures
 

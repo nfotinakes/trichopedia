@@ -38,7 +38,7 @@ Many recommend FoxFarm soils:
 
 But any bagged potting mix or cactus/succulent soil will work.
 
-Then get yourself either a bag of [Pumice](https://cactusjungle.com/product/uni-gro-4qt-pumice/?attribute_pa_size=4-quart&srsltid=AfmBOoqp1L3vJat-9hJtGeDXPgF0nC_FavEG72Yp7GeDwQBg-AhCTyDtebY){:target="_blank"} or [Perlite](sBhCEARIsAOVwHuRr2FETI_5rxgq8XC4krlzMnm_Y88V5nZq5d8VRj_nuY1pl6IWXYu8aAlBrEALw_wcB){:target="_blank"}. These are the two most common drainage additives and while some perfer one over the other, either will work. Often one is more available than the other in your area, so you may have to shop around unless you ship it which can be expensive.
+Then get yourself either a bag of [Pumice](https://cactusjungle.com/product/uni-gro-4qt-pumice/?attribute_pa_size=4-quart&srsltid=AfmBOoqp1L3vJat-9hJtGeDXPgF0nC_FavEG72Yp7GeDwQBg-AhCTyDtebY){:target="_blank"} or [Perlite](https://www.homedepot.com/p/Vigoro-8-Qt-Organic-Perlite-Soil-Amendment-100536862/307678036){:target="_blank"}. These are the two most common drainage additives and while some perfer one over the other, either will work. Often one is more available than the other in your area, so you may have to shop around unless you ship it which can be expensive.
 
 To prepare your mix, simply mix one part of your soil to one part pumice/perlite to make a 50/50 blend. You can also sift the soil and pumice to remove larger chunks of wood or pumice/perlite for a finer soil which may help/ 
 

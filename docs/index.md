@@ -21,4 +21,4 @@
 ### Additional Info
 ---
 >*<h6>The information on this site is for educational purposes only and has been gathered from a variety of sources. If you see your picture or info has been used without credit or want it removed, please contact:*  
->*trichopedia@gmail.com</h6>*
+>*xerothorn@gmail.com</h6>*
