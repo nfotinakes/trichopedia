@@ -15,7 +15,7 @@
 * [About](about/about.md) - *Background info on all San Pedro species*
 * [Identification](identify.md) - *How to identify trichocereus species*
 * [Guides](grow-guides/seed.md) - *How to grow trichocereus plants*
-* [Clone List](clones/index.md) - *Encylopedia of popular clones & their origins*
+* [Clone List](clones/index.md) - *Encyclopedia of popular clones & their origins*
 * [Links](links.md) - *Links to useful resources and websites*
 
 ### Additional Info
